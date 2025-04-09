@@ -10,11 +10,11 @@ st.title('การจำแนกข้อมูล🪷🪷ด้วยเท�
 col1, col2 = st.columns(2)
 
 with col1:
-   st.header("ไก้รุ่ง เฮงพระพรหม")
+   st.header("")
    st.image("./img/heart1.jpg")
 
 with col2:
-   st.header("การทำนายโรคหัวใจ")
+   st.header("")
    st.image("./img/heart2.jpg")
 
 
